@@ -28,20 +28,22 @@ Lien du prototype : https://xd.adobe.com/view/b136c225-45bb-4e82-860b-3de9fcd6fe
 <br/>
 <br/>
 
-
 <!-- {:style="text-align:center;"} -->
-![Mockup2](https://github.com/JlnPrr/AutoEntrepreneurApp/assets/83329578/f03716a2-dd18-43b4-aa71-468958eb64a5)
+![Mockup2](https://github.com/JlnPrr/AutoEntrepreneurApp/assets/83329578/131b19a5-b317-4194-b333-c9bb48b1fb02)
 
-![Mockup1](https://github.com/JlnPrr/AutoEntrepreneurApp/assets/83329578/0151d704-726d-4672-a8d0-2e5a70d78912)
+
+![Mockup1](https://github.com/JlnPrr/AutoEntrepreneurApp/assets/83329578/4eb173a5-6638-4052-9713-6e7bfe83e7bd)
+
 
 # Plan global de la maquette 
+![PlansGlobal_1](https://github.com/JlnPrr/AutoEntrepreneurApp/assets/83329578/0d3dd0a9-2306-4b65-8bd7-a659012cf11e)
 
 
-![PlansGlobal_1](https://github.com/JlnPrr/AutoEntrepreneurApp/assets/83329578/753c3c4d-d6ad-4419-8395-4f22377f1b41)
 
 # Plan global prototype 
-![PlansGlobal_2](https://github.com/JlnPrr/AutoEntrepreneurApp/assets/83329578/7685021f-1f9d-4a86-8547-b422c0a5aa91)
 
+
+![PlansGlobal_2](https://github.com/JlnPrr/AutoEntrepreneurApp/assets/83329578/d061f271-53f9-400d-be47-39b8e0bcfcd5)
 
 <br/>
 
